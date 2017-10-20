@@ -1,3 +1,7 @@
 line1: this is line1
 line2: changed by chen
+<<<<<<< HEAD
 line3: food list
+=======
+line3: this is line3
+>>>>>>> 2fc2840c92ace8f5da6fe13ddfaaec1ca9790b6c
